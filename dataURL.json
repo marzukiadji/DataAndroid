@@ -1,11 +1,11 @@
 {
   "googlevideos": [{
-    "category": "DC Universe+",
+    "category": "DC Universe",
     "videos": [{
       "description": "Aquaman is a 2018 American superhero film based on the DC character of the same name. Co-produced and distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). The film was directed by James Wan from a screenplay by David Leslie Johnson-McGoldrick and Will Beall.",
       "sources": ["https://imdb-video.media-imdb.com/vi3588536857/1434659607842-pgv4ql-1542647396203.mp4?Expires=1679906597&Signature=izCDvMwnWvAWZPHKNSXOevblUYnDpvg2SsdoL1nWLLbRpRWAVp8dR81vTg0fCwJkzNJqzIU09ou0liuWTSKq8RbOgibsVUI8caVJj4XG-OxFj5g6JxGgRZcY2ruYhft6RU~0rqkzsaz6mwZWjrlyxzUokwZpxZLiZV81foeHzM4Le5ZkjlanS-B-STBlFDJOkqQ4w7cs6i6-nInLyOWBK3-we5ZTRAUyTixtYr3c6CKnJiFVm83mFAE3o3UJnnAHxHslpUy7r4wgRs43~ymU8p-uiA3xgJdC3yJBgZfUzJxzLx6qOloob2ww1HAOQQF2hzUwxmygoVzpvuWGrqj7kA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"],
-      "card": "amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg",
-      "background": "amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg",
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
       "title": "Aquaman",
       "studio": "DC Universe"
     }, {
