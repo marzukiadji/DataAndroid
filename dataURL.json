@@ -7,7 +7,7 @@
       "card": "https://www.gannett-cdn.com/authoring/2019/03/31/NTRE/ghows-AR-8565325e-d209-1fe7-e053-0100007f83d8-7c434fdd.jpeg?width=300&height=387&fit=crop&format=pjpg&auto=webp", 
       "background": "https://www.xfire.com/wp-content/uploads/2023/01/aquaman-cover--768x427.jpg.webp", 
       "title": "Aquaman",
-      "studio": "DC Universe"
+      "studio": "James Wan"
     }, {
       "description": "A Promised Land is extraordinarily intimate and introspective-the story of one man's bet with history, the faith of a community organizer tested on the world stage.",
       "sources": ["https://drive.google.com/uc?id=1Fvc1xQA2TkU8xpdMJa46sZdtFLJBWABr&export=download"], 
@@ -21,35 +21,35 @@
       "card": "https://drive.google.com/uc?export=download&id=1dgkOUMio1phwcN1jjEshQelPlloMEI8b",
       "background": "https://drive.google.com/uc?export=download&id=1arfzmWHIf2e1PI_DDwaUsWBPjlRSlh-8",
       "title": "Too Much and Never Enough: How My Family Created the World's Most Dangerous Man",
-      "studio": "Google+"
+      "studio": "Mary L. Trump"
     }, {
       "description": "Search on Google+ helps you get advice from the people you know -- sometimes when you least expect it. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4"],
       "card": "https://drive.google.com/uc?export=download&id=1rF91oNyrt0w84emPkUCqPg6SsKlZVngR",
       "background": "https://drive.google.com/uc?export=download&id=1dIJ2uLYdmC8gDoYJGhBEbyK_8KFfugLk",
       "title": "Midnight Sun",
-      "studio": "Google+"
+      "studio": "Stephenie Meyer"
     }, {
       "description": "New ways of sharing the right things with the right people. Join at http://google.com/+",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4"],
       "card": "https://drive.google.com/uc?export=download&id=1IRWXBRASpMEyGiaUxZ6b7rqmmwrDvHwj",
       "background": "https://drive.google.com/uc?export=download&id=1IO82MA0gOR1eHolXVRf_g8cH6VPGG_hM",
       "title": "Verity",
-      "studio": "Google+"
+      "studio": "Colleen Hoover"
     }, {
       "description": "Jed introduces Circles with a few thoughts on the nature of friendship. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles.mp4"],
       "card": "https://drive.google.com/uc?export=download&id=1Ib_HO9pwlEu3bjhb-gWPvPEj5ax8FQBE",
       "background": "https://drive.google.com/uc?export=download&id=1I_4LXdxARWGZkoNn6rCiR0K48LAWZPN_",
       "title": "Untamed",
-      "studio": "Google+"
+      "studio": "Glennon Doyle"
     }, {
-      "description": "Aimee introduces Hangouts with a few thoughts on the spontaneous get-together. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/bg.jpg",
-      "title": "Google+ Hangouts",
-      "studio": "Google+"
+      "description": "Amor Towles is the author of New York Times bestsellers Rules of Civility and A Gentleman in Moscow. The two novels have collectively sold more than 4 million copies and have been translated into more than thirty languages. Towles lives in Manhattan with his wife and two children.",
+      "sources": ["https://drive.google.com/uc?export=download&id=1egllaSTVCthMhGsg4Fy6jdt0GCNQ2qhC"], 
+      "card": "https://m.media-amazon.com/images/I/51Sp3yhGIQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "background": "https://drive.google.com/uc?export=download&id=1tl-nVF5yLupFi9q1JXJ5KxNB0SDD4c0a", 
+      "title": "A Gentleman In Moscow",
+      "studio": "Amor Towles"
     }]
   }, {
     "category": "Demo Slam",
