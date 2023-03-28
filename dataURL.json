@@ -1,8 +1,7 @@
 {
   "Available Books": [{
     "category": "Biography",
-    "videos": [
-      {
+    "videos": [{
       "description": "Amor Towles is the author of New York Times bestsellers Rules of Civility and A Gentleman in Moscow. The two novels have collectively sold more than 4 million copies and have been translated into more than thirty languages. Towles lives in Manhattan with his wife and two children.",
       "sources": ["https://drive.google.com/uc?export=download&id=1egllaSTVCthMhGsg4Fy6jdt0GCNQ2qhC"], 
       "card": "https://m.media-amazon.com/images/I/51Sp3yhGIQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
