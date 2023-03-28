@@ -1,13 +1,14 @@
 {
-  "googlevideos": [{
-    "category": "DC Universe",
-    "videos": [{
-      "description": "Aquaman is a 2018 American superhero film based on the DC character of the same name. Co-produced and distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). The film was directed by James Wan from a screenplay by David Leslie Johnson-McGoldrick and Will Beall.",
-      "sources": ["https://drive.google.com/uc?id=1Bde9CfIjQ-8yBWDQdyIaKEVvcMUa6LDN&export=download"], 
-      "card": "https://www.gannett-cdn.com/authoring/2019/03/31/NTRE/ghows-AR-8565325e-d209-1fe7-e053-0100007f83d8-7c434fdd.jpeg?width=300&height=387&fit=crop&format=pjpg&auto=webp", 
-      "background": "https://www.xfire.com/wp-content/uploads/2023/01/aquaman-cover--768x427.jpg.webp", 
-      "title": "Aquaman",
-      "studio": "James Wan"
+  "Available Books": [{
+    "category": "Biography",
+    "videos": [
+      {
+      "description": "Amor Towles is the author of New York Times bestsellers Rules of Civility and A Gentleman in Moscow. The two novels have collectively sold more than 4 million copies and have been translated into more than thirty languages. Towles lives in Manhattan with his wife and two children.",
+      "sources": ["https://drive.google.com/uc?export=download&id=1egllaSTVCthMhGsg4Fy6jdt0GCNQ2qhC"], 
+      "card": "https://m.media-amazon.com/images/I/51Sp3yhGIQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "background": "https://drive.google.com/uc?export=download&id=1tl-nVF5yLupFi9q1JXJ5KxNB0SDD4c0a", 
+      "title": "A Gentleman In Moscow",
+      "studio": "Amor Towles"
     }, {
       "description": "A Promised Land is extraordinarily intimate and introspective-the story of one man's bet with history, the faith of a community organizer tested on the world stage.",
       "sources": ["https://drive.google.com/uc?id=1Fvc1xQA2TkU8xpdMJa46sZdtFLJBWABr&export=download"], 
@@ -44,12 +45,12 @@
       "title": "Untamed",
       "studio": "Glennon Doyle"
     }, {
-      "description": "Amor Towles is the author of New York Times bestsellers Rules of Civility and A Gentleman in Moscow. The two novels have collectively sold more than 4 million copies and have been translated into more than thirty languages. Towles lives in Manhattan with his wife and two children.",
-      "sources": ["https://drive.google.com/uc?export=download&id=1egllaSTVCthMhGsg4Fy6jdt0GCNQ2qhC"], 
-      "card": "https://m.media-amazon.com/images/I/51Sp3yhGIQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
-      "background": "https://drive.google.com/uc?export=download&id=1tl-nVF5yLupFi9q1JXJ5KxNB0SDD4c0a", 
-      "title": "A Gentleman In Moscow",
-      "studio": "Amor Towles"
+      "description": "Aquaman is a 2018 American superhero film based on the DC character of the same name. Co-produced and distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). The film was directed by James Wan from a screenplay by David Leslie Johnson-McGoldrick and Will Beall.",
+      "sources": ["https://drive.google.com/uc?id=1Bde9CfIjQ-8yBWDQdyIaKEVvcMUa6LDN&export=download"], 
+      "card": "https://www.gannett-cdn.com/authoring/2019/03/31/NTRE/ghows-AR-8565325e-d209-1fe7-e053-0100007f83d8-7c434fdd.jpeg?width=300&height=387&fit=crop&format=pjpg&auto=webp", 
+      "background": "https://www.xfire.com/wp-content/uploads/2023/01/aquaman-cover--768x427.jpg.webp", 
+      "title": "Aquaman",
+      "studio": "James Wan"
     }]
   }, {
     "category": "Demo Slam",
