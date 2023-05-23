@@ -23,33 +23,12 @@
       "title": "Too Much and Never Enough: How My Family Created the World's Most Dangerous Man",
       "studio": "Mary L. Trump"
     }, {
-      "description": "Search on Google+ helps you get advice from the people you know -- sometimes when you least expect it. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://drive.google.com/uc?export=download&id=1PLiEjeuEB2d3BBSL4ZfXwHwy5jD5g44M"],
-      "card": "https://drive.google.com/uc?export=download&id=1rF91oNyrt0w84emPkUCqPg6SsKlZVngR",
-      "background": "https://drive.google.com/uc?export=download&id=1dIJ2uLYdmC8gDoYJGhBEbyK_8KFfugLk",
-      "title": "Midnight Sun",
-      "studio": "Stephenie Meyer"
-    }, {
-      "description": "New ways of sharing the right things with the right people. Join at http://google.com/+",
-      "sources": ["https://drive.google.com/uc?export=download&id=1Iquv1Q8hbDghwZTjzcDFDlDFklRSmzxJ"],
-      "card": "https://drive.google.com/uc?export=download&id=1IRWXBRASpMEyGiaUxZ6b7rqmmwrDvHwj",
-      "background": "https://drive.google.com/uc?export=download&id=1IO82MA0gOR1eHolXVRf_g8cH6VPGG_hM",
-      "title": "Verity",
-      "studio": "Colleen Hoover"
-    }, {
       "description": "Jed introduces Circles with a few thoughts on the nature of friendship. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
       "sources": ["https://drive.google.com/uc?export=download&id=1J8s8fz5jG_A33e3pvaIfmJ_YDBPRe4L_"],
       "card": "https://drive.google.com/uc?export=download&id=1Ib_HO9pwlEu3bjhb-gWPvPEj5ax8FQBE",
       "background": "https://drive.google.com/uc?export=download&id=1I_4LXdxARWGZkoNn6rCiR0K48LAWZPN_",
       "title": "Untamed",
       "studio": "Glennon Doyle"
-    }, {
-      "description": "Aquaman is a 2018 American superhero film based on the DC character of the same name. Co-produced and distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). The film was directed by James Wan from a screenplay by David Leslie Johnson-McGoldrick and Will Beall.",
-      "sources": ["https://drive.google.com/uc?id=1Bde9CfIjQ-8yBWDQdyIaKEVvcMUa6LDN&export=download"], 
-      "card": "https://www.gannett-cdn.com/authoring/2019/03/31/NTRE/ghows-AR-8565325e-d209-1fe7-e053-0100007f83d8-7c434fdd.jpeg?width=300&height=387&fit=crop&format=pjpg&auto=webp", 
-      "background": "https://www.xfire.com/wp-content/uploads/2023/01/aquaman-cover--768x427.jpg.webp", 
-      "title": "Aquaman",
-      "studio": "James Wan"
     }]
   }, {
     "category": " Fiction",
@@ -75,12 +54,19 @@
         "title": "The Silent Patient",
         "studio": "Alex Michaelides"
       }, {
-        "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
-        "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation.mp4"],
-        "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation/card.jpg",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation/bg.jpg",
-        "title": "Epic Docs Animation",
-        "studio": "Google Demo Slam"
+      "description": "Search on Google+ helps you get advice from the people you know -- sometimes when you least expect it. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
+      "sources": ["https://drive.google.com/uc?export=download&id=1PLiEjeuEB2d3BBSL4ZfXwHwy5jD5g44M"],
+      "card": "https://drive.google.com/uc?export=download&id=1rF91oNyrt0w84emPkUCqPg6SsKlZVngR",
+      "background": "https://drive.google.com/uc?export=download&id=1dIJ2uLYdmC8gDoYJGhBEbyK_8KFfugLk",
+      "title": "Midnight Sun",
+      "studio": "Stephenie Meyer"
+      }, {
+      "description": "Aquaman is a 2018 American superhero film based on the DC character of the same name. Co-produced and distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). The film was directed by James Wan from a screenplay by David Leslie Johnson-McGoldrick and Will Beall.",
+      "sources": ["https://drive.google.com/uc?id=1Bde9CfIjQ-8yBWDQdyIaKEVvcMUa6LDN&export=download"], 
+      "card": "https://www.gannett-cdn.com/authoring/2019/03/31/NTRE/ghows-AR-8565325e-d209-1fe7-e053-0100007f83d8-7c434fdd.jpeg?width=300&height=387&fit=crop&format=pjpg&auto=webp", 
+      "background": "https://www.xfire.com/wp-content/uploads/2023/01/aquaman-cover--768x427.jpg.webp", 
+      "title": "Aquaman",
+      "studio": "James Wan"
       }, {
         "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Extra%20Spicy.mp4"],
@@ -205,12 +191,12 @@
   }, {
     "category": " Novel",
     "videos": [{
-      "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Go%20Google_%20Google%20Drive.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Go%20Google_%20Google%20Drive/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Go%20Google_%20Google%20Drive/bg.jpg",
-      "title": "Google Drive has Gone Google",
-      "studio": "Gone Google"
+      "description": "New ways of sharing the right things with the right people. Join at http://google.com/+",
+      "sources": ["https://drive.google.com/uc?export=download&id=1Iquv1Q8hbDghwZTjzcDFDlDFklRSmzxJ"],
+      "card": "https://drive.google.com/uc?export=download&id=1IRWXBRASpMEyGiaUxZ6b7rqmmwrDvHwj",
+      "background": "https://drive.google.com/uc?export=download&id=1IO82MA0gOR1eHolXVRf_g8cH6VPGG_hM",
+      "title": "Verity",
+      "studio": "Colleen Hoover"
     }, {
       "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Go%20Google_%20Hall%20and%20Oates.mp4"],
