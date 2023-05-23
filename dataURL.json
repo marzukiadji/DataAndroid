@@ -1,6 +1,6 @@
 {
   "googlevideos": [{
-    "category": "Biography",
+    "category": " Biography",
     "videos": [{
       "description": "A Promised Land is extraordinarily intimate and introspective-the story of one man's bet with history, the faith of a community organizer tested on the world stage.",
       "sources": ["https://drive.google.com/uc?id=1Fvc1xQA2TkU8xpdMJa46sZdtFLJBWABr&export=download"], 
@@ -52,7 +52,7 @@
       "studio": "James Wan"
     }]
   }, {
-    "category": "Fiction",
+    "category": " Fiction",
     "videos": [{
         "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
         "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4"],
@@ -203,7 +203,7 @@
       }
     ]
   }, {
-    "category": "Drama",
+    "category": " Novel",
     "videos": [{
       "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Go%20Google_%20Google%20Drive.mp4"],
@@ -234,7 +234,7 @@
       "studio": "Gone Google"
     }]
   }, {
-    "category": "Self Improvement",
+    "category": " Self Improvement",
     "videos": [{
       "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
       "sources": ["https://drive.google.com/uc?export=download&id=18fGAcHAS_VeQ_gb-q9Ja6qqb3He9CgWj"],
@@ -272,7 +272,7 @@
       "studio": "​Bessel van der Kolk"
     }]
   }, {
-    "category": "Kids",
+    "category": " Kids",
     "videos": [{
       "description": "In this very funny, cumulative song, each page tells us something new about the donkey until we end up with a spunky, hanky-panky cranky stinky dinky lanky honky-tonky winky wonky donkey, which will have children in fits of laughter! There is much fun to be had by listening to the song and trying to predict the new word for each clue given!",
       "sources": ["https://drive.google.com/uc?export=download&id=1JUS33m33qePt_u4-o6OsU-TPovYAKF-b"],
